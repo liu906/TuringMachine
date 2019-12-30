@@ -56,8 +56,8 @@ $ ./Turing case2
     
 # 演示
 
-![串ww的图灵机运行过程](1.png)
-![串ww的图灵机运行过程](2.png)
+![串ww的图灵机运行过程](https://github.com/liu906/TuringMachine/blob/master/1.png)
+![串ww的图灵机运行过程](https://github.com/liu906/TuringMachine/blob/master/2.png)
 
 
 # 感想   
