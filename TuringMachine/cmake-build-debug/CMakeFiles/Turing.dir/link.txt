@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Turing.dir/turing.cpp.o CMakeFiles/Turing.dir/parser.cpp.o CMakeFiles/Turing.dir/simulator.cpp.o CMakeFiles/Turing.dir/TM.cpp.o  -o Turing 
